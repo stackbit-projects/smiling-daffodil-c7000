@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homess
 hide_title: true
 sections:
   - section_id: hero
