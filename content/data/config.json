@@ -79,6 +79,16 @@
                 "icon": "linkedin",
                 "new_window": true
             }
+        ],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
+            }
         ]
     },
     "domain": "https://smiling-daffodil-c7000.netlify.app"
